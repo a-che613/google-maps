@@ -1,0 +1,21 @@
+*-----------------------*
+|Features and Functions |
+*-----------------------*
+
+1. Search Field - Search for places.
+
+2. Search Icon - Onpressed, takes the text in the textfiel and passes it through the 
+                 geocoding getLocation function.
+              - It also determines the users current location and pins both markers 
+                (current location and destination);
+              - It also toggles the visibility option of the distance_container, making it visible,
+                and displays the distance. 
+
+3. Close Icon - Clears the search field.
+
+4. Location Button - Onpressed, determines the user location and pins a marker to it.
+
+5. Directions Button - Onpressed, determines the directions between the two points highlighted 
+                       and draws a polyline between them.
+
+

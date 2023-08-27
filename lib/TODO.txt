@@ -1,0 +1,7 @@
+---- TODO -----
+
+- Implement search function, that takes in an address and returns the coordinates
+- Using the Havesines formula to calculate the distance between the current location
+  and the location gotten from the search field.
+
+- Do more code restructuring for maintainability and resusability
